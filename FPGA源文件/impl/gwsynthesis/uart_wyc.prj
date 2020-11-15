@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE gowin-synthesis-project>
+<Project>
+    <Version>beta</Version>
+    <Device id="GW2A-18" package="PBGA484" speed="8" partNumber="GW2A-LV18PG484C8/I7"/>
+    <FileList>
+        <File path="C:\Users\wyc\Desktop\uart_zyh4\uart_zyh\src\dis_to_pc.v" type="verilog"/>
+        <File path="C:\Users\wyc\Desktop\uart_zyh4\uart_zyh\src\key_debounce.v" type="verilog"/>
+        <File path="C:\Users\wyc\Desktop\uart_zyh4\uart_zyh\src\per_trans.v" type="verilog"/>
+        <File path="C:\Users\wyc\Desktop\uart_zyh4\uart_zyh\src\recv_temp.v" type="verilog"/>
+        <File path="C:\Users\wyc\Desktop\uart_zyh4\uart_zyh\src\send_speed.v" type="verilog"/>
+        <File path="C:\Users\wyc\Desktop\uart_zyh4\uart_zyh\src\send_to_pc.v" type="verilog"/>
+        <File path="C:\Users\wyc\Desktop\uart_zyh4\uart_zyh\src\uart_byte_rx.v" type="verilog"/>
+        <File path="C:\Users\wyc\Desktop\uart_zyh4\uart_zyh\src\uart_dis_rx.v" type="verilog"/>
+        <File path="C:\Users\wyc\Desktop\uart_zyh4\uart_zyh\src\uart_rx_top.v" type="verilog"/>
+        <File path="C:\Users\wyc\Desktop\uart_zyh4\uart_zyh\src\uart_tx.v" type="verilog"/>
+    </FileList>
+    <OptionList>
+        <Option type="disable_insert_pad" value="0"/>
+        <Option type="dsp_balance" value="1"/>
+        <Option type="looplimit" value="2000"/>
+        <Option type="output_file" value="C:\Users\wyc\Desktop\uart_zyh4\uart_zyh\impl\gwsynthesis\uart_zyh.vg"/>
+        <Option type="ram_rw_check" value="0"/>
+        <Option type="verilog_language" value="sysv-2017"/>
+        <Option type="vhdl_language" value="vhdl-2008"/>
+    </OptionList>
+</Project>
